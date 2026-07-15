@@ -13,3 +13,6 @@ This Python script utilizes OPENCV and MEDIAPIPE to track user's hand gesture an
 To start front-facing monitor, simply run the script. To exit script, press 'q' (case insensitive).
 
 Project renderer: Apple M1 Pro (MAY NOT BE SUITABLE FOR ALL MACOS)
+
+
+project created 02/13/2025
